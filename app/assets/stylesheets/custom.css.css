@@ -1,5 +1,4 @@
-/*.navbar {
-
+.navbar {
   background-color: black !important;
 }
 
@@ -21,7 +20,8 @@
 }
 
 #fondo {
-  background-image: asset-url('fondo.jpg')
+  margin-top: 25px;
+  background: url(fondo.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -42,4 +42,3 @@ body {
   flex-shrink: none;
 }
 
-*/
