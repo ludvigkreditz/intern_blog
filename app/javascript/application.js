@@ -2,4 +2,4 @@
 
 import "controllers"
 
-console.log("")
+console.log("Close()")
